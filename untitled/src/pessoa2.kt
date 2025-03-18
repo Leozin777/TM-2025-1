@@ -1,0 +1,1 @@
+﻿data class pessoa2(var nome: String, var idade: Int, val profissao: String, val cpf : String) {}
